@@ -2,6 +2,48 @@
 <!doctype html>
 <html>
   <head>
+     <style type="text/css" media="screen">
+        div.paper {
+          clear: both;
+          margin-top: 0.3em;
+          margin-bottom: 0.3em;
+          border: 1px solid #ddd;
+          background: #fff;
+          padding: 1em 1em 1em 1em;
+        }
+
+        div.paper div {
+          padding-right: 230px;
+        }
+
+        div.paper div.wide {
+          padding-right: 0px;
+        }
+
+        img.paper {
+          margin-bottom: 0.5em;
+          float: right;
+          width: 200px;
+        }
+
+        span.blurb {
+          font-style: italic;
+          display: block;
+          margin-top: 0.75em;
+          margin-bottom: 0.5em;
+        }
+
+        pre,
+        code {
+          font-family: 'Lucida Console', 'Andale Mono', 'Courier', monospaced;
+          margin: 1em 0;
+          padding: 0;
+        }
+
+        div.paper pre {
+          font-size: 0.9em;
+        }
+      </style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Hongye Zeng</title>
@@ -11,39 +53,61 @@
     <link rel="stylesheet" href="styles/bootstrap.min.css">
 
     <meta name="viewport" content="width=device-width">
-
   </head>
+
   <body>
     <div class="wrapper">
       <header>
-        <h2>Elias Jääsaari</h2>
-    <img src="images/me.jpeg"></img>
-    <br />
-    <br />
-    <p><a href="/pdf/cv.pdf">CV</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=L9xG5JwAAAAJ&hl=zh-CN">Google Scholar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/ItTakesALotToKnow">GitHub</a></p>
+        <h2>Hongye Zeng</h2>
+        <img src="images/me.jpeg"></img>
+        <br />
+        <br />
+        <p><a href="/pdf/cv.pdf">CV</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=L9xG5JwAAAAJ&hl=zh-CN">Google Scholar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/ItTakesALotToKnow">GitHub</a></p>
         <p>
             <p><font face="courier">zenghy@shanghaitech.edu.cn </font></p>
         </p>
-
       </header>
 
       <section>
       <h2>About </h2>
-      <p>I am a PhD student at ShanghaiTech University, where I am advised by <a href="https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54817/page.htm" target="_blank">Prof. Rui Zheng</a>.
+        <p>I am a PhD student at ShanghaiTech University, where I am advised by <a href="https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54817/page.htm" target="_blank">Prof. Rui Zheng</a>.
+        <p>Before starting my PhD, I lived in Cambridge, UK, where I was an early employee at a University of Cambridge spin-out company. I am originally from Finland and received my BSc and MSc degrees in Computer Science from the University of Helsinki, where I was advised by <a href="https://www.cs.helsinki.fi/u/ttonteri/" target="_blank">Teemu Roos</a> and affiliated with the Information, Complexity and Learning research group.</p>
 
-      <p>Before starting my PhD, I lived in Cambridge, UK, where I was an early employee at a University of Cambridge spin-out company. I am originally from Finland and received my BSc and MSc degrees in Computer Science from the University of Helsinki, where I was advised by <a href="https://www.cs.helsinki.fi/u/ttonteri/" target="_blank">Teemu Roos</a> and affiliated with the Information, Complexity and Learning research group.</p>
+      <h2>Publications</h2>
+          <div class="paper">
+            <div class="wide">
+              [J2] <a class="paper" href="https://ieeexplore.ieee.org/document/9513473">
+               Memorizing Structure-Texture Correspondence for Image Anomaly Detection
+              </a><br />
+              <U><b>Kang Zhou</b>*</U>, Jing Li*, Yuting Xiao, Jianlong Yang, Jun Cheng, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao.
+                <br />
+              IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.45), 2021
+            </div>
+          </div>
 
-        <h2>Publications</h2>
-    <p style='text-align: justify'><b>E. Jääsaari</b>, M. Ma, A. Talwalkar, T. Chen. SONAR: Joint Architecture and System Optimization Search. <i>arXiv preprint</i>. <a href="/pdf/sonar.pdf">[pdf]</a> </p>
-    <p style='text-align: justify'>V. Hyvönen, <b>E. Jääsaari</b>, T. Roos. A Multilabel Classification Framework for Approximate Nearest Neighbor Search. <i>Proceedings of the 35th Conference on Neural Information Processing Systems</i> <b>(NeurIPS 2022)</b>. <a href="/pdf/neurips2022.pdf">[pdf]</a> </p>
-    <p style='text-align: justify'><b>E. Jääsaari</b>, V. Hyvönen, T. Roos. Efficient autotuning of hyperparameters in approximate nearest neighbor search. <i>Proceedings of the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining</i> <b>(PAKDD 2019)</b>. <a href="/pdf/pakdd2019.pdf">[pdf]</a> </p>
-    <p style='text-align: justify'>T. Silander, J. Leppä-aho, <b>E. Jääsaari</b>, T. Roos. Quotient normalized maximum likelihood criterion for learning Bayesian network structures. <i>Proceedings of the 21st International Conference on Artificial Intelligence and Statistics</i> <b>(AISTATS 2018)</b>. <a href="/pdf/aistats2018.pdf">[pdf]</a> </p>
-    <p style='text-align: justify'><b>E. Jääsaari</b>, J. Leppä-aho, T. Silander, T. Roos. Minimax optimal Bayes mixtures for memoryless sources over large alphabets. <i>Proceedings of the 29th International Conference on Algorithmic Learning Theory</i> <b>(ALT 2018)</b>. <a href="/pdf/alt2018.pdf">[pdf]</a> </p>
-    <p style='text-align: justify'>V. Hyvönen, T. Pitkänen, S. Tasoulis, <b>E. Jääsaari</b>, R. Tuomainen, L. Wang, J. Corander, T. Roos. Fast nearest neighbor search through sparse random projections and voting. <i>Proceedings of the 4th IEEE International Conference on Big Data</i> <b>(IEEE Big Data 2016)</b>. <a href="/pdf/bigdata2016.pdf">[pdf]</a> <a href="https://github.com/vioshyvo/mrpt">[code]</a> </p>
-  <br>
-  <br>
+        <div class="paper">
+          <div class="wide">
+            <a class="paper" href="https://eccv2020.eu/">
+             Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images
+            </a>
+            <br>
+            <U><b>Kang Zhou</b>*</U>, Yuting Xiao*, Jianlong Yang, Jun Cheng, Wen Liu, Weixin Luo, Zaiwang Gu, Jiang Liu, Shenghua Gao.
+            <br />
+             ECCV 2020
+            / <a  href="https://github.com/ClancyZhou/P_Net_Anomaly_Detection" target="_blank">
+              <font color="blue">[Code]</font>  </a>
+            / <a  href="paper/2020_ECCV_pnet.pdf.pdf" target="_blank">
+              <font color="blue">[Paper]</font> </a>
+            / <a  href="paper/2020_ECCV_pnet_supp.pdf" target="_blank">
+              <font color="blue">[Supp]</font> </a>
+            / <a  href="video/eccv.mp4" target="_blank">
+              <font color="blue">[Video]</font> </a>
+          </div>
+        </div>
+    <br>
+    <br>
     <script src="javascripts/scale.fix.js"></script>
-
   </body>
+
 </html>
 
