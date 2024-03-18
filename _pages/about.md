@@ -55,7 +55,7 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/modeling.png' alt="sym" height="50%" width='80%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUS 2022</div><img src='images/modeling.png' alt="sym" height="50%" width='80%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D Ultrasound Parametric Modeling Imaging for Spine Deformity – A Preliminary Study](https://ieeexplore.ieee.org/abstract/document/9958051)
