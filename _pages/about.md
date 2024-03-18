@@ -22,11 +22,11 @@ I received a B.Eng. degree in the School of Information Science and Technology a
 
 I was a visiting student (2023-2024) at Institute of High Performance Computing (IHPC), A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
 
-My research interest is in the interdisciplinary field of medical data analysis, computer vision, and machine learning, aiming to create innovative intelligent systems that can support high-quality human/machine interactions and clinical decision-making.
+My research interest is in the interdisciplinary fields of **medical data analysis** and **computer vision**, aiming to create intelligent systems for clinical decision-making.
 
-Recently, I am dedicated to multi-modal learning with vision and text in ultrasound imaging, domain adaptation between different imaging systems, diffusion model for medical data, and trustworthy AI healthcare.
+Recently, I am dedicated to multi-modal learning with vision and text in ultrasound imaging, domain adaptation between different imaging systems and diffusion model for medical data.
 
-Previously, I focused on developing deep learning solutions for 3D ultrasound spine images, including seme-supervised learning, domain adaptation, and multi-modal modeling imaging, to achieve intelligent diagnosis and accurate imaging of spine.
+Previously, I focused on developing deep learning solutions for 3D ultrasound spine images, including seme-supervised learning, domain adaptation, and multi-modal modeling imaging, to achieve intelligent diagnosis and accurate imaging of the spine.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -99,8 +99,8 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 - 2019.10, International Ultrasonics Symposium, Glasgow, UK
 
 ## Teaching
--CS270 Digital Image Processing, Spring 2019, Fall 2019, TA
--EE101 Fundamentals of Medical Imaging, Spring 2020, TA
+- CS270 Digital Image Processing, Spring 2019, Fall 2019, TA
+- EE101 Fundamentals of Medical Imaging, Spring 2020, TA
 
 # 📖 Educations
 - *2018.09 - 2024.06 (now)*, Ph.D, ShanghaiTech University, Shanghai.
