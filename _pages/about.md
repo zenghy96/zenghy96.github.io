@@ -36,17 +36,31 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 
 # 📝 Publications 
 ## Spine Ultrasound Imaging
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/vertmatch.png' alt="sym" height="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/vertmatch.png' alt="sym" height="50%" width='50%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anatomical Prior and Inter-slice Consistency for Semi-supervised Vertebral Structure Detection in 3D Ultrasound Volume](https://ieeexplore.ieee.org/abstract/document/10416650)
 
 **Hongye Zeng**, Kang Zhou, Songhan Ge, Yuchong Gao, Jianhao Zhao, Shenghua Gao, Rui Zheng
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/vertmatch.png' alt="sym" height="50%" width='80%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anatomical Prior and Inter-slice Consistency for Semi-supervised Vertebral Structure Detection in 3D Ultrasound Volume](https://ieeexplore.ieee.org/abstract/document/10416650)
+
+**Hongye Zeng**, Kang Zhou, Songhan Ge, Yuchong Gao, Jianhao Zhao, Shenghua Gao, Rui Zheng
+</div>
+</div>
+
+<ul>
+<li><code class="language-plaintext highlighter-rouge">IUS 2021</code><a href="https://ieeexplore.ieee.org/abstract/document/9593791/">Measurement of Spinous Process Angles on Ultrasound Spine Images using HR-Net Method</a>,Wenjie Shao,<strong>Hongye Zeng</strong>,Yuchong Gao,Kang Zhang,Rui Zheng</li>
+<li><code class="language-plaintext highlighter-rouge">IUS 2021</code><a href="https://ieeexplore.ieee.org/abstract/document/9593869">Indicating Lung Maturity of Preterm Births on LUS Images using the GLCM Statistical Properties---A Pilot Study</a>, Duo Xu,<strong>Hongye Zeng</strong>,Jiangqin Liu,Shanshan Wang,Rui Zheng</li>
+<li><code class="language-plaintext highlighter-rouge">IEEE Trans on UFFC</code> <a href="https://ieeexplore.ieee.org/abstract/document/9449836">Improvement of 3-D ultrasound spine imaging technique using fast reconstruction algorithm</a>,Hongbo Chen,Rui Zheng,Liyue Qian,Fengyu Liu,Sheng Song,<strong>Hongye Zeng</strong></li>
+<li><code class="language-plaintext highlighter-rouge">EMBC 2020</code> <a href="https://ieeexplore.ieee.org/abstract/document/9176211">Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>,Songhan Ge,<strong>Hongye Zeng</strong>,Rui Zheng</li>
+<li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8925710">Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>,<strong>Hongye Zeng</strong>,Rui Zheng,Lawrence H Le,Dean Ta</li>
+</ul>
 
 ## Domain adaptation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
@@ -60,13 +74,6 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 </div>
 </div>
 
-<ul>
-<li><code class="language-plaintext highlighter-rouge">IUS 2021</code><a href="https://ieeexplore.ieee.org/abstract/document/9593791/">Measurement of Spinous Process Angles on Ultrasound Spine Images using HR-Net Method</a>,Wenjie Shao,<strong>Hongye Zeng</strong>,Yuchong Gao,Kang Zhang,Rui Zheng</li>
-<li><code class="language-plaintext highlighter-rouge">IUS 2021</code><a href="https://ieeexplore.ieee.org/abstract/document/9593869">Indicating Lung Maturity of Preterm Births on LUS Images using the GLCM Statistical Properties---A Pilot Study</a>, Duo Xu,<strong>Hongye Zeng</strong>,Jiangqin Liu,Shanshan Wang,Rui Zheng</li>
-<li><code class="language-plaintext highlighter-rouge">IEEE Trans on UFFC</code> <a href="https://ieeexplore.ieee.org/abstract/document/9449836">Improvement of 3-D ultrasound spine imaging technique using fast reconstruction algorithm</a>,Hongbo Chen,Rui Zheng,Liyue Qian,Fengyu Liu,Sheng Song,<strong>Hongye Zeng</strong></li>
-<li><code class="language-plaintext highlighter-rouge">EMBC 2020</code> <a href="https://ieeexplore.ieee.org/abstract/document/9176211">Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>,Songhan Ge,<strong>Hongye Zeng</strong>,Rui Zheng</li>
-<li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8925710">Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>,<strong>Hongye Zeng</strong>,Rui Zheng,Lawrence H Le,Dean Ta</li>
-</ul>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
