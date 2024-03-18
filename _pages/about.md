@@ -35,7 +35,7 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-## 3D Spine Ultrasound Images
+## 3D Ultrasound Spine Images
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC, 2021</div><img src='images/GVF.png' alt="sym" width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +55,7 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUS 2022</div><img src='images/modeling.png' alt="sym" height="50%" width='80%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUS 2022</div><img src='images/modeling.png' alt="sym" width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D Ultrasound Parametric Modeling Imaging for Spine Deformity – A Preliminary Study](https://ieeexplore.ieee.org/abstract/document/9958051)
@@ -97,6 +97,10 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 
 ## Presentations
 - 2019.10, International Ultrasonics Symposium, Glasgow, UK
+
+## Teaching
+-CS270 Digital Image Processing, Spring 2019, Fall 2019, TA
+-EE101 Fundamentals of Medical Imaging, Spring 2020, TA
 
 # 📖 Educations
 - *2018.09 - 2024.06 (now)*, Ph.D, ShanghaiTech University, Shanghai.
