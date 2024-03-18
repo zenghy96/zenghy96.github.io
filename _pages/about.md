@@ -22,9 +22,9 @@ I received a B.Eng. degree in the School of Information Science and Technology a
 
 I was a visiting student (2023-2024) at Institute of High Performance Computing (IHPC), A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
 
-My research interest is in the interdisciplinary fields of **medical data analysis** and **computer vision**, aiming to create intelligent systems for clinical decision-making.
+My research interest lies in the interdisciplinary fields of **medical data analysis** and **computer vision**, aiming to create intelligent systems that improve clinical decision-making.
 
-Recently, I am dedicated to multi-modal learning with vision and text in ultrasound imaging, domain adaptation between different imaging systems and diffusion model for medical data.
+Recently, I am dedicated to multi-modal learning with vision and text in ultrasound images, domain adaptation between different imaging systems and diffusion model for medical data.
 
 Previously, I focused on developing deep learning solutions for 3D ultrasound spine images, including seme-supervised learning, domain adaptation, and multi-modal modeling imaging, to achieve intelligent diagnosis and accurate imaging of the spine.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -71,6 +71,8 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 <li><code class="language-plaintext highlighter-rouge">EMBC 2020</code> <a href="https://ieeexplore.ieee.org/abstract/document/9176211"> Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>, Songhan Ge,<strong>Hongye Zeng</strong>,Rui Zheng</li>
 <li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8925710"> Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>, <strong>Hongye Zeng</strong>,Rui Zheng,Lawrence H Le,Dean Ta</li>
 </ul>
+
+
 
 ## Domain adaptation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
