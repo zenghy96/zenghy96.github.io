@@ -35,6 +35,17 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+## Domain adaptation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Training-free image style alignment for self-adapting domain shift on handheld ultrasound devices](https://arxiv.org/abs/2402.11211)
+
+**Hongye Zeng**, Ke Zou, Zhihao Chen, Yuchong Gao, Hongbo Chen, Haibin Zhang, Kang Zhou, Meng Wang, Rick Siow Mong Goh, Yong Liu, Chang Jiang, Rui Zheng, Huazhu Fu
+</div>
+</div>
+
 ## 3D Ultrasound Spine Images
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC, 2021</div><img src='images/GVF.png' alt="sym" width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,17 +83,6 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 <li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8925710"> Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>, <strong>Hongye Zeng</strong>,Rui Zheng,Lawrence H Le,Dean Ta</li>
 </ul>
 
-
-
-## Domain adaptation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Training-free image style alignment for self-adapting domain shift on handheld ultrasound devices](https://arxiv.org/abs/2402.11211)
-
-**Hongye Zeng**, Ke Zou, Zhihao Chen, Yuchong Gao, Hongbo Chen, Haibin Zhang, Kang Zhou, Meng Wang, Rick Siow Mong Goh, Yong Liu, Chang Jiang, Rui Zheng, Huazhu Fu
-</div>
-</div>
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
