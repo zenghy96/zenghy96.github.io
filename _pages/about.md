@@ -36,18 +36,33 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 
 # 📝 Publications 
 ## Spine Ultrasound Imaging
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI</div><img src='images/vertmatch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI</div><img src='images/vertmatch.png' alt="sym" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anatomical Prior and Inter-slice Consistency for Semi-supervised Vertebral Structure Detection in 3D Ultrasound Volume](https://ieeexplore.ieee.org/abstract/document/10416650)
 
-**Hongye Zeng**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-## Domain adaptation
+**Hongye Zeng**, Kang Zhou, Songhan Ge, Yuchong Gao, Jianhao Zhao, Shenghua Gao, Rui Zheng
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+
+## Domain adaptation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anatomical Prior and Inter-slice Consistency for Semi-supervised Vertebral Structure Detection in 3D Ultrasound Volume](https://ieeexplore.ieee.org/abstract/document/10416650)
+
+**Hongye Zeng**, Edmond Lou, Songhan Ge, Zhichao Liu, Rui Zheng
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<ur>
+<li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://text-to-audio.github.io/paper.pdf">Measuring spinous process angle on ultrasound spine images using the GVF segmentation method
+</a>, <strong>Hongye Zeng</strong>, Rui Zheng, Lawrence H Le, Dean Ta</li>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -55,11 +70,12 @@ Previously, I focused on developing deep learning solutions for 3D ultrasound sp
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Activities
+# 🗣 Activities
 ## Reviewers
 - IEEE Journal of Biomedical and Health Informatics
 - Scientific Reports
 - ICIP 2023
+
 ## Presentations
 - 2019.10, International Ultrasonics Symposium, Glasgow, UK
 
