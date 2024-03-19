@@ -16,17 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. candidate in the Biomedical Ultrasound Lab at the ShanghaiTech University, advised by [Prof. Rui Zheng](https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm).
+I am currently a Ph.D. candidate in the Biomedical Ultrasound Lab at ShanghaiTech University, under the supervision of [Prof. Rui Zheng](https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm).
 
-I received a B.Eng. degree in the School of Information Science and Technology at Dalian Maritime University in 2018.
+I received my B.Eng. degree from the School of Information Science and Technology at Dalian Maritime University in 2018.
 
-I was a visiting student (2023-2024) at Institute of High Performance Computing (IHPC), A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
+During 2023-2024, I was a visiting student at the Institute of High Performance Computing (IHPC), A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
 
-My research interest lies in the interdisciplinary fields of **medical data analysis** and **computer vision**, aiming to create intelligent systems that improve clinical decision-making.
+My research interests lie at the intersection of **medical data analysis** and **computer vision**, with the goal of developing intelligent systems that enhance clinical decision-making.
 
-Recently, I am dedicated to multi-modal learning with vision and text in ultrasound images, domain adaptation between different imaging systems and diffusion model for medical data.
+Recently, I have been focusing on multi-modal learning with vision and text in ultrasound imaging, domain adaptation across different imaging systems, and the application of diffusion models in medical data analysis.
 
-Previously, I focused on developing deep learning solutions for 3D ultrasound spine images, including seme-supervised learning, domain adaptation, and multi-modal modeling imaging, to achieve intelligent diagnosis and accurate imaging of the spine.
+Previously, my work centered on developing deep learning solutions for 3D ultrasound imaging of the spine, including semi-supervised learning, domain adaptation, and multi-modal imaging models, to facilitate intelligent diagnosis and precise imaging.
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -113,4 +114,4 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
-- *2023.02 - 2024.02*, Visiting student, Institute of High Performance Computing (IHPC), A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
+- *2023.02 - 2024.02*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
