@@ -24,9 +24,9 @@ During 2023-2024, I was a visiting student at the Institute of High Performance 
 
 My research interests lie at the intersection of **medical data analysis** and **computer vision**, with the goal of developing intelligent systems that enhance clinical decision-making.
 
-Recently, I have been focusing on multi-modal learning with vision and text in ultrasound imaging, domain adaptation across different imaging systems, and the application of diffusion models in medical data analysis.
+Specifically, I am interested in multi-modal learning with vision and text in ultrasound images, domain adaptation across different imaging systems, and the application of diffusion models in medical data analysis.
 
-Previously, my work centered on developing deep learning solutions for 3D ultrasound imaging of the spine, including semi-supervised learning, domain adaptation, and multi-modal imaging models, to facilitate intelligent diagnosis and precise imaging.
+Previously, my work centered on developing deep learning solutions for 3D ultrasound imaging of the spine, including semi-supervised learning, domain adaptation, and multi-modal imaging, to facilitate intelligent diagnosis and high-quality imaging.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
