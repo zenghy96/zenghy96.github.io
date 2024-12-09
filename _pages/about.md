@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. candidate in the Biomedical Ultrasound Lab at ShanghaiTech University, under the supervision of [Prof. Rui Zheng](https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm).
+I am currently a Postdoctoral Fellow in the Department of Radiology at University of Washington, under the supervision of [Prof. Chengcheng Zhu](https://rad.washington.edu/radiology-personnel/zhucheng/).
+
+I recieved my Ph.D. degree at University of Chinese Academy of Sciences and ShanghaiTech University, under the supervision of [Prof. Rui Zheng](https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm).
 
 I received my B.Eng. degree from the School of Information Science and Technology at Dalian Maritime University in 2018.
 
@@ -24,9 +26,9 @@ During 2023-2024, I was a visiting student at the Institute of High Performance 
 
 My research interests lie at the intersection of **medical data analysis** and **computer vision**, with the goal of developing intelligent systems that enhance clinical decision-making.
 
-Specifically, I am interested in multi-modal learning with vision and text in ultrasound images, domain adaptation across different imaging systems, and the application of diffusion models in medical data analysis.
+<!-- Specifically, I am interested in multi-modal learning with vision and text in ultrasound images, domain adaptation across different imaging systems, and the application of diffusion models in medical data analysis.
 
-Previously, my work centered on developing deep learning solutions for 3D ultrasound imaging of the spine, including semi-supervised learning, domain adaptation, and multi-modal imaging, to facilitate intelligent diagnosis and high-quality imaging.
+Previously, my work centered on developing deep learning solutions for 3D ultrasound imaging of the spine, including semi-supervised learning, domain adaptation, and multi-modal imaging, to facilitate intelligent diagnosis and high-quality imaging. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -36,6 +38,27 @@ Previously, my work centered on developing deep learning solutions for 3D ultras
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+## Domain adaptation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Training-free image style alignment for self-adapting domain shift on handheld ultrasound devices](https://arxiv.org/abs/2402.11211)
+
+**Hongye Zeng**, Ke Zou, Zhihao Chen, Yuchong Gao, Hongbo Chen, Haibin Zhang, Kang Zhou, Meng Wang, Rick Siow Mong Goh, Yong Liu, Chang Jiang, Rui Zheng, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/rsa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation
+
+**Hongye Zeng**, Ke Zou, Zhihao Chen, Rui Zheng, Huazhu Fu
+</div>
+</div>
+
+
 ## 3D Ultrasound Spine Images
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC, 2021</div><img src='images/GVF.png' alt="sym" width='100%'></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,26 +96,6 @@ Yuchong Gao, **Hongye Zeng**, Jianhao Zhao, Mingbo Zhang, Rui Zheng
 <li><code class="language-plaintext highlighter-rouge">IUS 2019</code> <a href="https://ieeexplore.ieee.org/abstract/document/8925710"> Measuring spinous process angle on ultrasound spine images using the GVF segmentation method</a>, <strong>Hongye Zeng</strong>,Rui Zheng,Lawrence H Le,Dean Ta</li>
 </ul>
 
-
-## Domain adaptation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tisa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Training-free image style alignment for self-adapting domain shift on handheld ultrasound devices](https://arxiv.org/abs/2402.11211)
-
-**Hongye Zeng**, Ke Zou, Zhihao Chen, Yuchong Gao, Hongbo Chen, Haibin Zhang, Kang Zhou, Meng Wang, Rick Siow Mong Goh, Yong Liu, Chang Jiang, Rui Zheng, Huazhu Fu
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/rsa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation
-
-**Hongye Zeng**, Ke Zou, Zhihao Chen, Rui Zheng, Huazhu Fu
-</div>
-</div>
-
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
@@ -113,7 +116,7 @@ Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Ve
 - EE101 Fundamentals of Medical Imaging, Spring 2020, TA
 
 # 📖 Educations
-- *2018.09 - 2024.06 (now)*, Ph.D, ShanghaiTech University, Shanghai.
+- *2018.09 - 2024.06*, Ph.D, University of Chinese Academy of Sciences, ShanghaiTech University, Shanghai.
 - *2014.09 - 2018.06*, B.E, Dalian Maritime University. 
 
 <!-- # 💬 Invited Talks
@@ -121,4 +124,5 @@ Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Ve
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
-- *2023.02 - 2024.02*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
+- *2024.10 - now*, Postdoc fellow, University of Washington, US
+- *2023.02 - 2024.02*, Visiting student, A*STAR, Singapore
