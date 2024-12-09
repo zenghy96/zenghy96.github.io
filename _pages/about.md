@@ -52,7 +52,7 @@ Previously, my work centered on developing deep learning solutions for 3D ultras
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/rsa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation
+[Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_58)
 
 **Hongye Zeng**, Ke Zou, Zhihao Chen, Rui Zheng, Huazhu Fu
 </div>
